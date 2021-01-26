@@ -1,0 +1,28 @@
+Command line:
+   eight_three_encoder_TB_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  59637
+
+Sun Jan 24 12:17:25 2021
+
+
+ Elaboration Time: 0.125 sec
+
+ Current Memory Usage: 1165.22 Meg
+
+ Total Signals          : 16
+ Total Nets             : 25
+ Total Signal Drivers   : 8
+ Total Blocks           : 3
+ Total Primitive Blocks : 2
+ Total Processes        : 11
+ Total Traceable Variables  : 21
+ Total Scalar Nets and Variables : 117
+
+ Total Simulation Time: 0.34375 sec
+
+ Current Memory Usage: 692.576 Meg
+
+Sun Jan 24 12:18:58 2021
+

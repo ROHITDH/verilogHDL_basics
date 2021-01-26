@@ -1,0 +1,28 @@
+Command line:
+   square_wave_TB_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  60152
+
+Sun Jan 24 18:10:44 2021
+
+
+ Elaboration Time: 0.328125 sec
+
+ Current Memory Usage: 1163.58 Meg
+
+ Total Signals          : 16
+ Total Nets             : 23
+ Total Signal Drivers   : 8
+ Total Blocks           : 3
+ Total Primitive Blocks : 2
+ Total Processes        : 13
+ Total Traceable Variables  : 24
+ Total Scalar Nets and Variables : 126
+
+ Total Simulation Time: 70.75 sec
+
+ Current Memory Usage: 691.982 Meg
+
+Sun Jan 24 18:12:06 2021
+

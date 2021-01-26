@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -lib "secureip" -o "C:/Users/_/Desktop/VERILOG LAB/eight_three_encoder_without_priority/eight_three_encoder_TB_isim_beh.exe" -prj "C:/Users/_/Desktop/VERILOG LAB/eight_three_encoder_without_priority/eight_three_encoder_TB_beh.prj" "work.eight_three_encoder_TB" "work.glbl" 

@@ -1,0 +1,2 @@
+verilog work "two_four_decoder.v"
+verilog work "two_four_decoder_TB.v"

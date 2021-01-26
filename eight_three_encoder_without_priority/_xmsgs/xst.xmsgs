@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated
+     by the Xilinx ISE software.  Any direct editing or
+     changes made to this file may result in unpredictable
+     behavior or data corruption.  It is strongly advised that
+     users do not edit the contents of this file. -->
+<messages>
+<msg type="warning" file="HDLCompiler" num="1335" delta="old" >"C:\Users\_\Desktop\VERILOG LAB\eight_three_encoder_without_priority\eight_three_encoder.v" Line 23: Port <arg fmt="%s" index="1">a</arg> must not be declared to be an array
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="991" delta="old" >"C:\Users\_\Desktop\VERILOG LAB\eight_three_encoder_without_priority\eight_three_encoder.v" Line 29: Event expressions must result in a singular type
+</msg>
+
+<msg type="error" file="HDLCompiler" num="251" delta="old" >"C:\Users\_\Desktop\VERILOG LAB\eight_three_encoder_without_priority\eight_three_encoder.v" Line 34: Cannot access memory <arg fmt="%s" index="1">a</arg> directly
+</msg>
+
+<msg type="error" file="HDLCompiler" num="252" delta="old" >"C:\Users\_\Desktop\VERILOG LAB\eight_three_encoder_without_priority\eight_three_encoder.v" Line 35: Cannot assign <arg fmt="%s" index="1">a packed</arg> type to <arg fmt="%s" index="2">an unpacked</arg> type
+</msg>
+
+<msg type="error" file="HDLCompiler" num="252" delta="old" >"C:\Users\_\Desktop\VERILOG LAB\eight_three_encoder_without_priority\eight_three_encoder.v" Line 36: Cannot assign <arg fmt="%s" index="1">a packed</arg> type to <arg fmt="%s" index="2">an unpacked</arg> type
+</msg>
+
+<msg type="error" file="HDLCompiler" num="252" delta="old" >"C:\Users\_\Desktop\VERILOG LAB\eight_three_encoder_without_priority\eight_three_encoder.v" Line 37: Cannot assign <arg fmt="%s" index="1">a packed</arg> type to <arg fmt="%s" index="2">an unpacked</arg> type
+</msg>
+
+<msg type="error" file="HDLCompiler" num="252" delta="old" >"C:\Users\_\Desktop\VERILOG LAB\eight_three_encoder_without_priority\eight_three_encoder.v" Line 38: Cannot assign <arg fmt="%s" index="1">a packed</arg> type to <arg fmt="%s" index="2">an unpacked</arg> type
+</msg>
+
+<msg type="error" file="HDLCompiler" num="252" delta="old" >"C:\Users\_\Desktop\VERILOG LAB\eight_three_encoder_without_priority\eight_three_encoder.v" Line 40: Cannot assign <arg fmt="%s" index="1">a packed</arg> type to <arg fmt="%s" index="2">an unpacked</arg> type
+</msg>
+
+<msg type="error" file="HDLCompiler" num="252" delta="old" >"C:\Users\_\Desktop\VERILOG LAB\eight_three_encoder_without_priority\eight_three_encoder.v" Line 41: Cannot assign <arg fmt="%s" index="1">a packed</arg> type to <arg fmt="%s" index="2">an unpacked</arg> type
+</msg>
+
+<msg type="error" file="HDLCompiler" num="252" delta="old" >"C:\Users\_\Desktop\VERILOG LAB\eight_three_encoder_without_priority\eight_three_encoder.v" Line 42: Cannot assign <arg fmt="%s" index="1">a packed</arg> type to <arg fmt="%s" index="2">an unpacked</arg> type
+</msg>
+
+<msg type="error" file="HDLCompiler" num="252" delta="old" >"C:\Users\_\Desktop\VERILOG LAB\eight_three_encoder_without_priority\eight_three_encoder.v" Line 43: Cannot assign <arg fmt="%s" index="1">a packed</arg> type to <arg fmt="%s" index="2">an unpacked</arg> type
+</msg>
+
+<msg type="error" file="HDLCompiler" num="598" delta="old" >"C:\Users\_\Desktop\VERILOG LAB\eight_three_encoder_without_priority\eight_three_encoder.v" Line 21: Module &lt;<arg fmt="%s" index="1">eight_three_encoder</arg>&gt; ignored due to previous errors.
+</msg>
+
+</messages>
+

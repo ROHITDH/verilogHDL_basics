@@ -1,0 +1,3 @@
+verilog isim_temp "stepper.v"
+verilog isim_temp "stepper_TB.v"
+verilog isim_temp "F:/Xilinx/14.7/ISE_DS/ISE//verilog/src/glbl.v"

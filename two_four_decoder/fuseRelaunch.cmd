@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -lib "secureip" -o "C:/Users/_/Desktop/VERILOG LAB/two_four_decoder/two_four_decoder_TB_isim_beh.exe" -prj "C:/Users/_/Desktop/VERILOG LAB/two_four_decoder/two_four_decoder_TB_beh.prj" "work.two_four_decoder_TB" "work.glbl" 

@@ -1,0 +1,28 @@
+Command line:
+   eight_to_mux_TB_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  59766
+
+Sun Jan 24 15:49:49 2021
+
+
+ Elaboration Time: 0.375 sec
+
+ Current Memory Usage: 1164.57 Meg
+
+ Total Signals          : 16
+ Total Nets             : 25
+ Total Signal Drivers   : 8
+ Total Blocks           : 3
+ Total Primitive Blocks : 2
+ Total Processes        : 11
+ Total Traceable Variables  : 21
+ Total Scalar Nets and Variables : 117
+
+ Total Simulation Time: 2.17188 sec
+
+ Current Memory Usage: 376.828 Meg
+
+Sun Jan 24 15:54:44 2021
+

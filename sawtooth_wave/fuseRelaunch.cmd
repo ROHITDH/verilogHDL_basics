@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -lib "secureip" -o "C:/Users/_/Desktop/VERILOG LAB/sawtooth_wave/sawtooth_TB_isim_beh.exe" -prj "C:/Users/_/Desktop/VERILOG LAB/sawtooth_wave/sawtooth_TB_beh.prj" "work.sawtooth_TB" "work.glbl" 

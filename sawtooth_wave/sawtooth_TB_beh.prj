@@ -1,0 +1,3 @@
+verilog work "sawtoot_wave.v"
+verilog work "sawtooth_TB.v"
+verilog work "F:/Xilinx/14.7/ISE_DS/ISE//verilog/src/glbl.v"

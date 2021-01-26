@@ -1,0 +1,2 @@
+xst -intstyle ise -ifn "C:/Users/_/Desktop/VERILOG LAB/eight_three_encoder_with_priority/eight_three_encoder_with_priority_TB.xst" -ofn "C:/Users/_/Desktop/VERILOG LAB/eight_three_encoder_with_priority/eight_three_encoder_with_priority_TB.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc6slx9-tqg144-2 "eight_three_encoder_with_priority_TB.ngc" eight_three_encoder_with_priority_TB.ngd  

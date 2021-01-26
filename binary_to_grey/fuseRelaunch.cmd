@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -lib "secureip" -o "C:/Users/_/Desktop/VERILOG LAB/binary_to_grey/bin_to_grey_TB_isim_beh.exe" -prj "C:/Users/_/Desktop/VERILOG LAB/binary_to_grey/bin_to_grey_TB_beh.prj" "work.bin_to_grey_TB" "work.glbl" 

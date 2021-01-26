@@ -1,0 +1,2 @@
+verilog work "eight_three_encoder.v"
+verilog work "eight_three_encoder_TB.v"
